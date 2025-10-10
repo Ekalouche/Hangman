@@ -18,6 +18,7 @@ A command-line Hangman game built in C++ for RIT's CPET-121 course. This project
 
 📁 File Structure
 ├── Hangman.h           # Header file declaring game functions and structures
+
 ├── hangman.cpp         # Main game logic: word selection, progress tracking, input handling
 ├── main.cpp            # Entry point that initializes and runs the game loop
 ├── word1.txt           # First dictionary file containing word list
